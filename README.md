@@ -5,7 +5,7 @@ Follow these steps to clone this repository and set up the Laravel application l
 -   Clone the repo:
 
 ```bash
-git clone <your-repo-url.git> tasks-app
+git clone https://github.com/ValonKadriaj/tasks-app
 cd tasks-app
 ```
 
@@ -47,10 +47,7 @@ Open http://127.0.0.1:8000 in your browser.
 
 Notes:
 
--   Replace `<your-repo-url.git>` with the repository URL (GitHub/Bitbucket/GitLab).
+
 -   If you edited migrations or re-created the database, you can use `php artisan migrate:fresh` to drop & re-run all migrations.
 -   On Windows using WSL or Git Bash is recommended for smoother command-line experience.
 
----
-
-To add this to the main `README.md` you can copy the section above and paste it near the end of `README.md`. If you want, I can try again to patch `README.md` directly or replace it with this full content — tell me which you prefer.
