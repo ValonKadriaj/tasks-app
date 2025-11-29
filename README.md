@@ -5,7 +5,7 @@ Follow these steps to clone this repository and set up the Laravel application l
 -   Clone the repo:
 
 ```bash
-git clone https://github.com/ValonKadriaj/tasks-app
+git clone https://github.com/ValonKadriaj/tasks-app.git
 cd tasks-app
 ```
 
